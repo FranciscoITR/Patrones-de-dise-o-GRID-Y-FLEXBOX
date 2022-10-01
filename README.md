@@ -1,6 +1,4 @@
 # Patrones-de-dise-o-GRID-Y-FLEXBOX
-Patrones de diseño GRID Y FLEXBOX
-188 / 5,000
 HTML code to create layouts like 
 -- 2 equal columns
 -- 3 equal columns 
