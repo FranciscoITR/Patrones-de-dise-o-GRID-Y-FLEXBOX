@@ -1,4 +1,4 @@
-# Patrones-de-dise-o-GRID-Y-FLEXBOX
+create layouts with grid and flexbox
 HTML code to create layouts like 
 -- 2 equal columns
 -- 3 equal columns 
