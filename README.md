@@ -5,6 +5,6 @@ HTML code to create layouts like
 -- 3 columns but one bigger than the other two (3 columnas pero dos de un mismo tamaño y una mas grande en medio) 75% 25%
 -- column drop ( 2 columnas del mismo tamaño arriba y una abajo grande que cubra las dos) (50% 50%) arriba (100%) abajo
 -- sidebar ( una columna muy grande y una pequeña a lado) 75% 25%
--- layout shifter
+-- layout shifter (
 -- mostly fluid
 -- tiny tweaks
