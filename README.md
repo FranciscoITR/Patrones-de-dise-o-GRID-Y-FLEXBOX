@@ -6,5 +6,5 @@ HTML code to create layouts like
 -- column drop ( 2 columnas del mismo tamaño arriba y una abajo grande que cubra las dos) (50% 50%) arriba (100%) abajo
 -- sidebar ( una columna muy grande y una pequeña a lado) 75% 25%
 -- layout shifter ( 2 columnas del mismo tamaño abajo y una arriba grande que cubra los dos) (50% 50%) abajo (100%) arriba
--- mostly fluid (
--- tiny tweaks
+-- mostly fluid ( pequeños ajustes) diseños de una imagen con texto debajo
+-- tiny tweaks (contenido que fluye en el espacio disponible) - perfecto para hacer nuestro diseño responsive
